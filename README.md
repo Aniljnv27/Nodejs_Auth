@@ -4,7 +4,7 @@
 ## Web App Link
 http://serene-headland-22338.herokuapp.com/
 
-![Screenshot (4)](https://user-images.githubusercontent.com/49118089/90341145-b776a900-e01a-11ea-93c8-4f6864a141c1.png)
+![Screenshot (4)](https://drive.google.com/drive/folders/10bproYrHJE-W41P_8_1jhsCuURJfvAsW)
 
 ## Technologies Used
 1.  NodeJS
@@ -26,7 +26,7 @@ http://serene-headland-22338.herokuapp.com/
 
 ##### Clone the latest Repository
 
-`git clone https://github.com/rahulsups/nodejs-auth.git`
+`git clone https://github.com/Aniljnv27/Nodejs_Auth.git`
 
 ##### Into the project directory
 
